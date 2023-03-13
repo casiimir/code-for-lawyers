@@ -7,4 +7,5 @@
 
 # Risultati per pagina
 
-- 06-03-2023: https://casiimir.github.io/code-for-lawyers/06-03-2023/
+- Lezione 06-03-2023: https://casiimir.github.io/code-for-lawyers/06-03-2023/
+- Lezione 13-03-2023: https://casiimir.github.io/code-for-lawyers/13-03-23/
