@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Rubik+Iso&display=swap');
+
+body {
+    width: 150px;
+    /* border: 1px solid black; */
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    background-color: rgb(124, 187, 184);
+}
+
+.contenitore {
+    padding: 10px;
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 0 0 4px rgba(23, 23, 23, 0.3);
+}
+
+.titolo {
+    color: lightseagreen;
+}
+
+.immagine {
+    width: 40px;
+}
+
+.lista {
+    padding: 0;
+    list-style-type: none;
+    text-align: left;
+}
